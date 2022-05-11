@@ -2,4 +2,4 @@
 
 Repository for my-website project of Git and GitHub ultimate course (Udemy)
 
-Now updating on update-readme branch, now remotely
+Updates made on main before rebasing
